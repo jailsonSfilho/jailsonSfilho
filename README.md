@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jailsonSfilho/jailsonSfilho/output/snake.svg" alt="Snake animation" />
+
 
 ###
